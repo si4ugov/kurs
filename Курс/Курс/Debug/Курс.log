@@ -1,0 +1,7 @@
+﻿  database.c
+C:\Users\si4ug\Desktop\ycheba\флешка газ\лабы 3курс\Лабы\оп\Курсовая\Курс\Курс\database.c(135,9): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\si4ug\Desktop\ycheba\флешка газ\лабы 3курс\Лабы\оп\Курсовая\Курс\Курс\database.c(312,12): warning C4101: j: неиспользованная локальная переменная
+C:\Users\si4ug\Desktop\ycheba\флешка газ\лабы 3курс\Лабы\оп\Курсовая\Курс\Курс\database.c(492,18): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  main.c
+  Создание кода...
+  Курс.vcxproj -> C:\Users\si4ug\Desktop\ycheba\флешка газ\лабы 3курс\Лабы\оп\Курсовая\Курс\Debug\Курс.exe
